@@ -3,4 +3,4 @@ numpy
 librosa
 scikit-learn
 pydub
-st-audiorec
+streamlit-audiorec
